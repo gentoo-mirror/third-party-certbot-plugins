@@ -1,5 +1,5 @@
 app-crypt/certbot-dns-azure 1.5.0 1.5.0-r1: AzureDNS Authenticator plugin for Certbot
-app-crypt/certbot-dns-duckdns 0.7.2-r2 0.8: DuckDNS Authenticator plugin for Certbot
+app-crypt/certbot-dns-duckdns 0.7.2-r2 0.8 0.9: DuckDNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-exonet 2.0.0 2.0.0-r1: Exonet DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-freenom 1.3.5: Freenom DNS Authenticator plugin for Certbot (Let's Encrypt Client)
 app-crypt/certbot-dns-godaddy 0.2.2 0.2.2-r1: godaddy DNS Authenticator plugin for certbot
