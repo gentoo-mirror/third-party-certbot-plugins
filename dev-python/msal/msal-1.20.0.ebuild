@@ -15,8 +15,14 @@ KEYWORDS="~amd64 ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/requests-2.20.0[${PYTHON_USEDEP}]
-	>=dev-python/pyjwt-1.7.1[${PYTHON_USEDEP}]"
+RDEPEND="
+	>=dev-python/requests-2.20.0[${PYTHON_USEDEP}]
+	<dev-python/requests-3.0.0[${PYTHON_USEDEP}]
+	>=dev-python/pyjwt-1.7.1[${PYTHON_USEDEP}]
+	<dev-python/pyjwt-3.0.0[${PYTHON_USEDEP}]
+	>=dev-python/cryptography-0.6.0[${PYTHON_USEDEP}]
+	<dev-python/cryptography-41.0.0[${PYTHON_USEDEP}]
+"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
