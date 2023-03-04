@@ -4,7 +4,7 @@ app-crypt/certbot-dns-duckdns 1.2.1: DuckDNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-exonet 2.0.0-r1: Exonet DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-freenom 1.3.5: Freenom DNS Authenticator plugin for Certbot (Let's Encrypt Client)
 app-crypt/certbot-dns-godaddy 0.2.2-r1: godaddy DNS Authenticator plugin for certbot
-app-crypt/certbot-dns-multi 4.9.0.1-r1 4.10.0: DNS plugin for Certbot which integrates with the 100+ DNS providers from the lego ACME client
+app-crypt/certbot-dns-multi 4.10.0: DNS plugin for Certbot which integrates with the 100+ DNS providers from the lego ACME client
 app-crypt/certbot-dns-standalone 1.1: Standalone DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-transip 0.5.2: TransIP DNS Authenticator plugin for certbot
 dev-python/adal 1.2.7-r1: ADAL Python library
