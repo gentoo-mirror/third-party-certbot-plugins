@@ -7,6 +7,7 @@ app-crypt/certbot-dns-godaddy 0.2.2-r1: godaddy DNS Authenticator plugin for cer
 app-crypt/certbot-dns-multi 4.10.0: DNS plugin for Certbot which integrates with the 100+ DNS providers from the lego ACME client
 app-crypt/certbot-dns-standalone 1.1: Standalone DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-transip 0.5.2: TransIP DNS Authenticator plugin for certbot
+app-crypt/certbot-standalone-nfq 0.1.0: Authenticator plugin using NFQUEUE for Certbot (Let's Encrypt Client)
 dev-python/adal 1.2.7-r1: ADAL Python library
 dev-python/azure-common 1.1.27-r1: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-core 1.18.0: Microsoft Azure core library for Python
@@ -24,3 +25,4 @@ dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/pyjwt 2.5.0-r2: JSON Web Token implementation in Python
 dev-python/setuptools-golang 2.7.0: A setuptools extension for building cpython extensions written in golang
 dev-python/transip 0.6.0: Python wrapper for the TransIP REST API V6
+net-analyzer/fnfqueue 1.1.1: Fast python library encapsulating the nfqueue netlink interface
