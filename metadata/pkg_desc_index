@@ -1,17 +1,17 @@
-app-crypt/certbot-dns-aliyun 0.38.1: Aliyun DNS Authenticator plugin for Certbot
-app-crypt/certbot-dns-azure 1.5.0-r1: AzureDNS Authenticator plugin for Certbot
+app-crypt/certbot-dns-aliyun 2.0.0: Aliyun DNS Authenticator plugin for Certbot
+app-crypt/certbot-dns-azure 2.1.0: AzureDNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-duckdns 1.2.1: DuckDNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-exonet 2.0.0-r1: Exonet DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-freenom 1.3.5: Freenom DNS Authenticator plugin for Certbot (Let's Encrypt Client)
 app-crypt/certbot-dns-godaddy 0.2.2-r1: godaddy DNS Authenticator plugin for certbot
-app-crypt/certbot-dns-multi 4.10.0 4.11.0: DNS plugin for Certbot which integrates with the 100+ DNS providers from the lego ACME client
+app-crypt/certbot-dns-multi 4.11.0: DNS plugin for Certbot which integrates with the 100+ DNS providers from the lego ACME client
 app-crypt/certbot-dns-standalone 1.1: Standalone DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-transip 0.5.2: TransIP DNS Authenticator plugin for certbot
 app-crypt/certbot-standalone-nfq 0.1.0: Authenticator plugin using NFQUEUE for Certbot (Let's Encrypt Client)
 dev-python/adal 1.2.7-r1: ADAL Python library
 dev-python/azure-common 1.1.27-r1: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-core 1.18.0: Microsoft Azure core library for Python
-dev-python/azure-identity 1.7.1: Microsoft Azure identity library for Python
+dev-python/azure-identity 1.12.0: Microsoft Azure identity library for Python
 dev-python/azure-mgmt-core 1.3.0: Microsoft Azure management core library for Python
 dev-python/azure-mgmt-dns 8.0.0-r1: Microsoft Azure DNS Management Client Library for Python
 dev-python/dnslib 0.9.16: Simple library to encode/decode DNS wire-format packets
