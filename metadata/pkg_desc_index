@@ -26,4 +26,4 @@ dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/pyjwt 2.5.0-r2: JSON Web Token implementation in Python
 dev-python/python-transip 0.6.0: Python wrapper for the TransIP REST API V6
 dev-python/setuptools-golang 2.7.0: A setuptools extension for building cpython extensions written in golang
-net-analyzer/fnfqueue 1.1.2: Fast python library encapsulating the nfqueue netlink interface
+net-analyzer/fnfqueue 1.1.2-r1: Fast python library encapsulating the nfqueue netlink interface
