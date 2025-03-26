@@ -23,7 +23,7 @@ dev-python/azure-mgmt-dns 8.0.0-r1: Microsoft Azure DNS Management Client Librar
 dev-python/dnslib 0.9.24: Simple library to encode/decode DNS wire-format packets
 dev-python/exonetapi 4.0.0: Python 3 library for the Exonet API
 dev-python/freenom 0.0.2: An unofficial python implementation for managing freenom.com dns records
-dev-python/msal 1.23.0: Microsoft Authentication Library (MSAL) for Python library
+dev-python/msal 1.32.0: Microsoft Authentication Library (MSAL) for Python library
 dev-python/msal-extensions 0.3.1: Microsoft authentication extensions library for Python
 dev-python/msrest 0.6.21-r1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtime. Azure-specific module
