@@ -5,7 +5,7 @@ app-crypt/certbot-dns-duckdns 1.2.1: DuckDNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-dynu 0.0.4: Dynu DNS Authenticator plugin for certbot
 app-crypt/certbot-dns-exonet 3.0.0: Exonet DNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-freenom 1.3.5-r1: Freenom DNS Authenticator plugin for Certbot (Let's Encrypt Client)
-app-crypt/certbot-dns-gandi 1.5.0: Gandi LiveDNS Authenticator plugin for Certbot
+app-crypt/certbot-dns-gandi 1.5.0 1.6.1: Gandi LiveDNS Authenticator plugin for Certbot
 app-crypt/certbot-dns-godaddy 2.8.0: godaddy DNS Authenticator plugin for certbot
 app-crypt/certbot-dns-hetzner 2.0.1: Hetzner DNS Authenticator plugin for certbot
 app-crypt/certbot-dns-ionos 2024.1.8: IONOS DNS Authenticator plugin for certbot
